@@ -7,8 +7,21 @@ This repository contains DBMS based interactive Online Food Ordering Website.
 ```
 git clone https://https://github.com/Jayrajsl001/Online-Food-Ordering-
 cd Online-Food-Ordering-
+phpMyadmin....
 ```
 
+<p align="center">
+<img src="/Website Images/Screenshot 2023-10-20 151001.png">
+<img src="/Website Images/Screenshot 2023-10-20 151047.png">
+  
+</p>
+
+## Screenshots
+<p align="center">
+<img width=1000 src="/Website Images/Screenshot 2023-10-20 150510.png">
+<img width=1000 src="/Website Images/Screenshot 2023-10-20 150715.png">
+<img width=1000 src="/Website Images/Screenshot 2023-10-20 150841.png">
+</p>
 
 
 ## Controls
